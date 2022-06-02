@@ -1,3 +1,5 @@
 [user]
-	name = Acada Learning
-	email = info@acadalearning
+	name = Acada learning
+	email = info@gali.com
+[user "email"]
+	email = info@acadalearning.com
